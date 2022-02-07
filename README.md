@@ -7,7 +7,7 @@
    MouseClick ("left",x,y,1,1), čiže smažu 730 a napíšu tam hodnotu pro x co ukazuje Mouse.Point.Viewer a to stejné potom pro hodnotu y, která je v mém příadě 790.
 6. pravým tlačítkem na autologin.au3 a vybrat compile script, pokud tuto moznost nevidím, kliknout prve na "zobrazit více možností"
 7. vyzkoušet jestli skript správně funguje, tím že ho spustím.
-8. nastavit spuštění skriptu v plánovači úloh
+8. nastavit spuštění skriptu v plánovači úloh aby se spoustel v raidovací den v 18:30
    https://www.radekryznar.cz/automaticke-spusteni-programu-ve-windows-10-planovac-uloh/
 9. dale take je moze pres ten planovac naplanovat probuzeni pocitace, takze nemusi byt celej den zapnuty
-   nektere zaklasni desky co maj trosku chytrejsi bios, dokazou naplanovat i zapnuti.
+   nektere zakladni desky co maj trosku chytrejsi bios, dokazou naplanovat i zapnuti.
